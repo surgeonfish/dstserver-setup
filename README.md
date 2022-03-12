@@ -1,0 +1,1 @@
+I write these scripts to make [Don’t Starve Together Dedicated Servers](https://dontstarve.fandom.com/wiki/Guides/Don%E2%80%99t_Starve_Together_Dedicated_Servers) being set up more easily on Linux. (Sorry I can't speek English very well, maybe I should learn to speak more english from now on. Whatever, If you have any problem, please post an issue on this repository -_-)
